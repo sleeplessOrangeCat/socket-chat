@@ -5,7 +5,7 @@
       <n-avatar :size="40" round :src="curUser.avatar" />
     </div>
     <div :class="['contacts-item',  chatUser == null ? 'active':'']">
-      <div  @click="clickUserAvatar('quliao')" class="user"> {{ `甜粥铺 (${userList.size})` }}</div>
+      <div  @click="clickUserAvatar('quliao')" class="user"> {{ `聊天室 (${userList.size})` }}</div>
     </div>
     <div @click="clickUserAvatar(item)" :class="['contacts-item ']"  v-for="item in users" key="item.id">
       <n-badge dot :show="initBadge(item)">
@@ -77,7 +77,7 @@ export default {
   height: 100%;
   border-radius: 0 0 0 20px;
   overflow: hidden;
-  background-color: rgba(255, 255, 255, 0.3);
+  background-color: #aacae2;
   backdrop-filter: blur(6px);
   box-shadow: rgba(142, 142, 142, 0.19) 0px 6px 15px 0px;
 }

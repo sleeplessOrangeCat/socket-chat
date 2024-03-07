@@ -20,7 +20,7 @@
     <div class="input-area">
       <n-input type="text" class="input-msg" size="large" v-model:value="value" @keyup.enter="handleSend"
         placeholder="your message" round />
-      <n-button class="btn" @click="handleSend" color="#8a2be2">发送</n-button>
+      <n-button class="btn" @click="handleSend" color="#7aade2">发送</n-button>
     </div>
   </div>
 </template>

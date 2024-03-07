@@ -1,6 +1,6 @@
 <template>
   <div class='main-container'>
-    <img class="img" src="../assets/bg.jpeg" alt="">
+    <img class="img" src="../assets/bg.jpg" alt="">
     <div class="content">
       <slot></slot>
     </div>
@@ -46,5 +46,6 @@ export default {
   background-color: rgba(255, 255, 255, 0.2);
   backdrop-filter: blur(6px);
   box-shadow: rgba(142, 142, 142, 0.19) 0px 6px 15px 0px;
+  background-color: azure;
 }
 </style>
