@@ -13,9 +13,11 @@ Vue3+Vite+Node实现一个WebSocket即时通讯聊天室
 
 *   naive-ui
 
-<img width="1365" alt="image" src="https://user-images.githubusercontent.com/91867363/220872374-24f4416c-1bf4-4b5a-af28-141aeccc9fc6.png">
-<img width="1363" alt="image" src="https://user-images.githubusercontent.com/91867363/220872580-87c79bff-56e1-4101-addb-012466c92769.png">
+<img width="1295" alt="image" src="https://github.com/zhniou/socket-chat/assets/91867363/6cedf0a9-b731-45fd-8b91-360ac37e3fcb">
+
 群聊
-<img width="1365" alt="image" src="https://user-images.githubusercontent.com/91867363/220872729-9121688f-06ca-4855-9e0f-fe5e2a535074.png">
+<img width="1306" alt="image" src="https://github.com/zhniou/socket-chat/assets/91867363/48a1991b-9b23-45ec-aa3d-00bde78e829e">
+
 私聊
-<img width="1367" alt="image" src="https://user-images.githubusercontent.com/91867363/220872847-eb98e725-2fea-4bc5-a711-929d710265e0.png">
+<img width="1301" alt="image" src="https://github.com/zhniou/socket-chat/assets/91867363/ba220e4d-80e6-4c72-9086-d0812755c549">
+
