@@ -1,6 +1,6 @@
 <template>
   <div class='chat-area'>
-    <div class="chat-info">甜粥铺群聊</div>
+    <div class="chat-info">聊天室</div>
     <!-- 信息展示区域 -->
     <template v-for="(item, index) in chatData" class="area">
       <div class="chat-content">
@@ -63,7 +63,7 @@ export default {
   align-items: center;
   justify-content: center;
   font-size: 20px;
-  color: #fff;
+  color: #666;
 }
 
 .chat-area {
@@ -139,7 +139,7 @@ export default {
 }
 
 .your .text {
-  background-color: #712df4;
+  background-color: #ccdfdd;
   padding: 10px;
   border-radius: 8px;
   margin-left: 10px;

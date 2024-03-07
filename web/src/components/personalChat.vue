@@ -58,7 +58,7 @@ export default {
 }
 .chat-info span{
   font-size: 20px;
-  color: #fff;
+  color: #666;
   margin-left: 10px;
 }
 
@@ -130,7 +130,7 @@ export default {
 }
 
 .your .text {
-  background-color: #712df4;
+  background-color: #ccdfdd;
   padding: 10px;
   border-radius: 8px;
   margin-left: 10px;
